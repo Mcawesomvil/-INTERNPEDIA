@@ -1,0 +1,204 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+
+.navbar-brand{
+    border: 0.9px solid;
+    border-radius: 10px;
+    padding: 15px;
+    font-weight: bolder;
+    margin-left: 27px;
+    margin-top: 5px;
+    
+}
+
+.navbar{
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+
+}
+.navbar-nav{
+   margin-bottom: 25px;
+    margin-left: 60px;
+    font-size: 18px;
+}
+.navbar-nav .nav-link {
+    padding-right: 10px;
+    margin-left: 10px;
+    color: black;
+}
+
+.navbar-nav .nav-link:hover {
+    color: white; 
+}
+
+#feature{
+    box-shadow: 1px 3px 10px 10px rgb(43, 75, 236);
+    background-color: oldlace;
+}
+
+#feature .btn-outline-primary a {
+    text-decoration: none;
+    font-weight: bold;
+}
+#feature .btn-outline-primary a :hover{
+    color: aliceblue;
+}
+
+
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+    
+    
+}
+   
+
+.name{
+    margin-right: 60px;
+}
+
+
+
+.skills{
+    
+   margin: 30px;
+   text-align: center;
+   text-transform: uppercase;
+   
+   padding-top: 20px;
+  
+}
+#skills{
+text-align: center;
+}
+
+#services{
+    padding: 10px;
+    margin: 10px;
+    margin-top: 10px;
+ height: 300px;
+ justify-content: center;
+ align-items: center;
+ align-content: center;
+ 
+  
+
+}
+
+.bi{
+    margin-bottom: 40px;
+}
+.front-end{
+    background-color: bisque;
+    box-shadow: 10px 10px 20px 5px grey;
+    /* border: 1px solid blue; */
+    padding: 10px;
+   padding-top: 30px;
+    padding-right: 20px;
+    margin-right:30px;
+    border-radius: 7px;
+    height: 100%;
+    width: 300px;
+    text-align: center;
+    
+}
+/* #services :hover{
+    
+    
+} */
+
+.ui{
+    background-color: cyan;
+    box-shadow: 10px 10px 20px 5px grey;
+    /* border: 1px solid blue; */
+    padding: 10px;
+    padding-top: 30px;
+    padding-right: 20px;
+    margin-right:30px;
+    border-radius: 7px;
+    height: 100%;
+    width: 300px;
+    text-align: center;
+
+}
+
+.writer{
+    background-color: beige;
+    box-shadow: 10px 10px 20px grey;
+    /* border: 1px solid blue; */
+    padding: 10px;
+    padding-top: 30px;
+    padding-right: 20px;
+    margin-right:30px;
+    border-radius: 7px;
+    height: 100%;
+    width: 300px;
+    text-align: center;
+
+}
+
+
+.about{
+    padding: 20px;
+   margin: 10px;
+   margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 40vh;
+    box-shadow: 1px 3px 3px 0.8px blue;
+}
+/* Form css */
+
+
+.hire-me{
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+    margin-top: 50px;
+     justify-content: center;
+     align-items: center;
+  
+    
+}
+#why{
+    margin-right: 50px;
+    margin-left: 0px;
+}
+#why a{
+    text-decoration: none;
+    font-weight: bold;
+}
+form{
+    
+    width:700px;
+    margin-left: auto;
+   border: 1px dotted;
+   padding: 20px;
+   padding-top: 20px;
+border-radius: 3px;
+   }
+
+ 
+
+
+form h4{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+footer{
+   background: grey;
+    height: 60px;
+    color:white ;
+    text-align: center;
+    
+}
+
